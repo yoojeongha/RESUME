@@ -1,6 +1,6 @@
 # 소개
 
-사진
+![사진](/untitled.png)
 
 유정하(YOOJEONGHA)  
 1999년 3월 11일생  

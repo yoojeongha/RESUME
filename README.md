@@ -1,8 +1,6 @@
 # 소개
 
-![사진](/untitled.png)
-
-유정하(YOOJEONGHA)  
+![사진](/untitled.png) 유정하(YOOJEONGHA)  
 1999년 3월 11일생  
 2녀 중 차녀  
 한림대학교 소프트웨어융합대학 빅데이터 학과 재학 중  
